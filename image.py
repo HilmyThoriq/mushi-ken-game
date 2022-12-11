@@ -36,8 +36,8 @@ while True:
             IMG_CLASS_PATH = os.path.join(IMG_SAVE_PATH, name)
             os.mkdir(IMG_CLASS_PATH)
             
-    if k == ord('s'):
-            name = 'snake'
+    if k == ord('e'):
+            name = 'elephant'
             IMG_CLASS_PATH = os.path.join(IMG_SAVE_PATH, name)
             os.mkdir(IMG_CLASS_PATH)
             
